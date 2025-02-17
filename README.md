@@ -1,1 +1,1 @@
-# Blog_template
+# HTML_basic project
